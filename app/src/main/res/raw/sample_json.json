@@ -1,0 +1,50 @@
+{
+  "peoples": [
+    {
+      "id": "569537e48784f992a235ab16",
+      "index": 1,
+      "guid": "b98c1ba2-a3cc-4be8-bb5c-73e8454dcbbf",
+      "name": "Preston Lowery",
+      "gender": "male",
+      "company": "INJOY",
+      "email": "prestonlowery@injoy.com",
+      "friends": [
+        {
+          "id": 1,
+          "name": "Moreno Mcpherson"
+        },
+        {
+          "id": 2,
+          "name": "Rita Jones"
+        },
+        {
+          "id": 3,
+          "name": "Livingston Barker"
+        }
+      ]
+    },
+    {
+      "id": "569537e48784f992a235ab17",
+      "index": 2,
+      "guid": "b98c1ba2-a3cc-4be8-bb5c-73e8454dcbbc",
+      "name": "Preston Lowery",
+      "gender": "male",
+      "company": "INJOY",
+      "email": "prestonlowery@injoy.com",
+      "friends": [
+        {
+          "id": 1,
+          "name": "Moreno Mcpherson"
+        },
+        {
+          "id": 2,
+          "name": "Rita Jones"
+        },
+        {
+          "id": 3,
+          "name": "Livingston Barker"
+        }
+      ]
+    }
+  ]
+}
